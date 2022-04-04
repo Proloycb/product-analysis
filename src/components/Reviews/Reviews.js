@@ -5,7 +5,7 @@ import Card from '../Card/Card';
 const Reviews = () => {
     const [reviews] = useReviews();
     return (
-        <div className='grid grid-cols-3 gap-8 md:m-14'>
+        <div className='grid grid-cols-1 md:grid-cols-3 gap-8 md:m-14'>
             {
                 reviews.map(review => <Card
                     key={review.id}
