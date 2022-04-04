@@ -1,7 +1,13 @@
-# Getting Started with Create React App
+# Canon Series 1500D Review
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+live site link: [https://glowing-custard-005f4e.netlify.app/](https://glowing-custard-005f4e.netlify.app/).
 
+## The features of my fancy project
+- This project is about of review of a camera
+- There are some customer feedback in this site
+- In this site I want to show some charts which is very useful.
+- In this site I also added some basic question of blog page.
+- There are available not found page.
 ## Available Scripts
 
 In the project directory, you can run:
